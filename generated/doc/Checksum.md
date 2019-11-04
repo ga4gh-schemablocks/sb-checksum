@@ -13,7 +13,7 @@
     <th>Provenance</th>
     <td>
       <ul>
-<li><a href="https://github.com/ga4gh/data-repository-service-schemas/blob/release/drs-1.0.0/docs/asciidoc/front_matter.adoc">GA4GH DRS</a></li>
+<li><a href="https://github.com/ga4gh-discovery/ga4gh-checksum/tree/develop">GA4GH DRS (`develop` branch)</a></li>
       </ul>
     </td>
   </tr>

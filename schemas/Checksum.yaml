@@ -6,8 +6,8 @@ meta:
     - description: "Susheel Varma"
       id: "orcid:0000-0003-1687-2754"
   provenance:
-    - description: GA4GH DRS
-      id: 'https://github.com/ga4gh/data-repository-service-schemas/blob/release/drs-1.0.0/docs/asciidoc/front_matter.adoc'
+    - description: 'GA4GH DRS (`develop` branch)'
+      id: 'https://github.com/ga4gh-discovery/ga4gh-checksum/tree/develop'
   used_by:
     - description: GA4GH DRS
       id: 'https://github.com/ga4gh/data-repository-service-schemas/blob/master/docs/asciidoc/front_matter.adoc'
