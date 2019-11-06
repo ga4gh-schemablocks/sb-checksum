@@ -55,7 +55,6 @@
   
 __Type:__ object  
 __Description:__ Checksum
-
 ### Properties
 
 <table id="schema-properties-table">
@@ -108,4 +107,8 @@ algorithms in the future.
 ```
 "sha-256"
 ```
+
+
+### `Checksum` Value Example  
+
 
