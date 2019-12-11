@@ -1,0 +1,129 @@
+checksums:
+  - name: "reserved"
+    id: 0
+  - name: "sha-256"
+    id: 1
+    bitLength: 256
+    status: current
+    reference:
+      label: "RFC6920"
+      url: http://www.iana.org/go/rfc6920
+  - name: "sha-256-128"
+    id: 2
+    bitLength: 128
+    status: current
+    reference:
+      label: "RFC6920"
+      url: http://www.iana.org/go/rfc6920
+  - name: "sha-256-120"
+    id: 3
+    bitLength: 120
+    status: current
+    reference:
+      label: "RFC6920"
+      url: http://www.iana.org/go/rfc6920
+  - name: "sha-256-96"
+    id: 4
+    bitLength: 96
+    status: current
+    reference:
+      label: "RFC6920"
+      url: http://www.iana.org/go/rfc6920
+  - name: "sha-256-64"
+    id: 5
+    bitLength: 64
+    status: current
+    reference:
+      label: "RFC6920"
+      url: http://www.iana.org/go/rfc6920
+  - name: "sha-256-32"
+    id: 6
+    bitLength: 32
+    status: current
+    reference:
+      label: "RFC6920"
+      url: http://www.iana.org/go/rfc6920
+  - name: "sha-384"
+    id: 7
+    bitLength: 384
+    status: current
+    reference:
+      label: "FIPS 180-4"
+      url: https://dx.doi.org/10.6028/NIST.FIPS.180-4
+  - name: "sha-512"
+    id: 8
+    bitLength: 512
+    status: current
+    reference:
+      label: "FIPS 180-4"
+      url: https://dx.doi.org/10.6028/NIST.FIPS.180-4
+  - name: "sha3-224"
+    id: 9
+    bitLength: 224
+    status: current
+    reference:
+      label: "FIPS 202"
+      url: https://dx.doi.org/10.6028/NIST.FIPS.202
+  - name: "sha3-256"
+    id: 10
+    bitLength: 256
+    status: current
+    reference:
+      label: "FIPS 202"
+      url: https://dx.doi.org/10.6028/NIST.FIPS.202
+  - name: "sha3-384"
+    id: 11
+    bitLength: 384
+    status: current
+    reference:
+      label: "FIPS 202"
+      url: https://dx.doi.org/10.6028/NIST.FIPS.202
+  - name: "sha3-512"
+    id: 12
+    bitLength: 512
+    status: current
+    reference:
+      label: "FIPS 202"
+      url: https://dx.doi.org/10.6028/NIST.FIPS.202
+  - name: "md5"
+    id: 13
+    bitLength: 128
+    status: current
+    reference:
+      label: "RFC1321"
+      url: https://www.ietf.org/rfc/rfc1321.txt
+  - name: "etag"
+    id: 14
+    bitLength: "128 + variable bits"
+    status: current
+    reference:
+      label: "RFC7232"
+      url: https://tools.ietf.org/html/rfc7232#section-2.3
+  - name: "crc32c"
+    id: 15
+    bitLength: 32
+    status: current
+    reference:
+      label: "RFC7232"
+      url: https://tools.ietf.org/html/rfc7232#section-2.3
+  - name: "trunc512"
+    id: 16
+    bitLength: 192
+    status: current
+    reference:
+      label: "GA4GH Refget"
+      url: https://samtools.github.io/hts-specs/refget.html#trunc512-algorithm-details
+  - name: "sha1"
+    id: 17
+    bitLength: 160
+    status: current
+    reference:
+      label: "FIPS 180-4"
+      url: https://dx.doi.org/10.6028/NIST.FIPS.180-4
+  - name: "blake2b-512"
+    id: 18
+    bitLength: 192
+    status: current
+    reference:
+      label: "RFC7693"
+      url: https://tools.ietf.org/html/rfc7693
