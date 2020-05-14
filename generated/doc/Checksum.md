@@ -108,7 +108,3 @@ algorithms in the future.
 "sha-256"
 ```
 
-
-### `Checksum` Value Example  
-
-
